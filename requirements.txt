@@ -1,0 +1,2 @@
+# 本训练台 server.py 仅使用 Python 标准库，无需第三方依赖。
+# 保留此空文件，供 Render 的 Build Command `pip install -r requirements.txt` 正常执行。
